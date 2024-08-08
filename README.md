@@ -39,7 +39,7 @@ The Value Iteration algorithm iteratively updates the value function for each st
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/grid-world-value-iteration.git
+   git clone https://github.com/Mahmood-Anaam/grid-world-value-iteration.git
    ```
 
 2. Navigate to the project directory:
